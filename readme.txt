@@ -1,0 +1,1 @@
+This project includes two network for reverse QA, namely, UCINet for the inference of  user's choices on options in machine-raised questions, and SAGNet for automatic answer generation.
